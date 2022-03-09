@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TsmUmc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 台股盤後資訊工具
+- 證交所爬蟲
+- MYSQL SQLite資料庫
+- 成量/成值/漲跌/本益比排行
+- TKinter圖形化介面
 
 <!---
 TsmUmc/TsmUmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
